@@ -1,5 +1,7 @@
 Nama		: I Kadek Nanda Surya Agusta
+
 NIM		: 2205551022
+
 Mata Kuliah	: Algoritma dan Pemograman (B)
 
 1. Hasil Pengujian Program Luas dan Keliling Segitiga
